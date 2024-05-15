@@ -1,0 +1,1 @@
+print ("Este é o arquivo adicionado após o fork.")
